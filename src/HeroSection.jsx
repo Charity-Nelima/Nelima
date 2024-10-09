@@ -5,6 +5,7 @@ import { Dialog, DialogPanel } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import Technologies from './components/Technologies'
 import Footer from './components/Footer'
+import Projects from './components/Projects'
 
 const navigation = [
     { name: 'Product', href: '#' },
@@ -176,6 +177,7 @@ export default function HeroSection() {
                     />
                 </div>
                 <Technologies/>
+                <Projects/>
 
 
     
