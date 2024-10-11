@@ -104,7 +104,7 @@ export default function HeroSection() {
                 </Dialog>
             </header>
 
-            <div className="relative isolate px-6  pt-14 lg:pt-0 lg:px-8">
+            <div className="relative isolate px-6  pt-14 lg:pt-0 lg:px-8 sm:pt-14">
                 <div
                     aria-hidden="true"
                     className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
@@ -137,14 +137,13 @@ export default function HeroSection() {
 
 
                     <div className="text-center">
-                        <h1 className="text-balance text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-                            Data to enrich your online business
+                        <h1 className="text-balance text-1xl font-bold tracking-tight text-gray-600 sm:text-6xl">
+                            Charity Nelima|| Software Developer
                         </h1>
-                        <p className="mt-6 text-lg leading-8 text-gray-600">
-                            Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet
-                            fugiat veniam occaecat fugiat aliqua.
+                        <p className="mt-6 text-lg font-bold leading-8 text-gray-600">
+                           charity.w.nelima@gmail.com
                         </p>
-                        <div className="mt-10  items-center justify-center gap-x-6">
+                        <div className="  items-center justify-center gap-x-6">
                             <a class="inline-flex items-center gap-2 justify-center rounded-md py-2 px-3 text-sm outline-offset-2 transition active:transition-none bg-zinc-50 font-medium text-zinc-900 hover:bg-zinc-100 active:bg-zinc-100 active:text-zinc-900/60 dark:bg-zinc-800/50 dark:text-zinc-300 dark:hover:bg-zinc-800 dark:hover:text-zinc-50 dark:active:bg-zinc-800/50 dark:active:text-zinc-50/70 group mt-6" href={pdf}>
                                 Download CV
                                 <svg viewBox="0 0 16 16" fill="none" aria-hidden="true" class="h-4 w-4 stroke-zinc-400 transition group-active:stroke-zinc-600 dark:group-hover:stroke-zinc-50 dark:group-active:stroke-zinc-50">
