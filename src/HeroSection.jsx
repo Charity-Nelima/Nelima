@@ -7,7 +7,7 @@ import Technologies from './components/Technologies'
 import Footer from './components/Footer'
 import Projects from './components/Projects'
 import Contact from './components/Contact'
-
+import Nelima from './assets/Nelima.jpg'
 const navigation = [
     { name: 'Product', href: '#' },
     { name: 'Features', href: '#' },
@@ -27,8 +27,8 @@ export default function HeroSection() {
                             <span className="sr-only">Your Company</span>
                             <img
                                 alt=""
-                                src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=600"
-                                className="h-8 w-auto"
+                                src={Nelima}
+                                className="h-8 w-auto rounded-full"
                             />
                         </a>
                     </div>
@@ -63,7 +63,7 @@ export default function HeroSection() {
                                 <span className="sr-only">Your Company</span>
                                 <img
                                     alt=""
-                                    src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=600"
+                                    src={Nelima}
                                     className="h-8 w-auto"
                                 />
                             </a>
@@ -136,7 +136,7 @@ export default function HeroSection() {
                             data-nimg="1"
                             className="rounded-full bg-zinc-100 object-cover dark:bg-zinc-800 h-16 w-16"
                             sizes="4rem"
-                            src="https://spotlight.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar.51a13c67.jpg&w=256&q=75"
+                            src={Nelima}
                             style={{ color: 'transparent' }}
                         />
                     </div>
