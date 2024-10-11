@@ -6,6 +6,7 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import Technologies from './components/Technologies'
 import Footer from './components/Footer'
 import Projects from './components/Projects'
+import Contact from './components/Contact'
 
 const navigation = [
     { name: 'Product', href: '#' },
@@ -178,6 +179,7 @@ export default function HeroSection() {
                 </div>
                 <Technologies/>
                 <Projects/>
+                <Contact/>
 
 
     
