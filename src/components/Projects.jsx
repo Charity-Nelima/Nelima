@@ -3,7 +3,8 @@ import React from 'react';
 export default function Projects() {
   return (
     <div>
-      <div className="relative px-4 sm:px-8 lg:px-12">
+      <section id='projects'>
+      <div className="relative px-4 sm:px-8 lg:px-12 mt-20">
         <div className="mx-auto max-w-2xl lg:max-w-5xl">
           <header className="max-w-2xl">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-070 sm:text-5xl ">
@@ -144,6 +145,7 @@ export default function Projects() {
           </div>
         </div>
       </div>
+      </section>
     </div>
   );
 }

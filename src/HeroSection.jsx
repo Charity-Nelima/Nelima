@@ -9,8 +9,9 @@ import Projects from './components/Projects'
 import Contact from './components/Contact'
 import Nelima from './assets/Nelima.jpg'
 import pdf from './assets/Charity_Nelima_CV.pdf'
+import Experiences from './components/Experiences'
 const navigation = [
-    { name: 'About', href: '#' },
+    { name: 'About', href: '/About' },
     { name: 'Technologies', href: '#' },
     { name: 'Experience', href: '#' },
     { name: 'Projects', href: '#' },
@@ -95,6 +96,7 @@ export default function HeroSection() {
                 </Dialog>
             </header>
 
+           <section id='About'>
             <div className="relative isolate px-6  pt-14 lg:pt-0 lg:px-8 sm:pt-14">
                 <div
                     aria-hidden="true"
@@ -174,16 +176,20 @@ export default function HeroSection() {
                         className="relative left-[calc(50%+3rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-30 sm:left-[calc(50%+36rem)] sm:w-[72.1875rem]"
                     />
                 </div>
-                <Technologies />
-                <Projects />
-                <Contact />
+              
 
 
 
-
+           
 
             </div>
+            </section> 
+            <Technologies />
+                <Experiences/>
+                <Projects />
+                <Contact />
             <Footer />
+        
 
         </div>
     )

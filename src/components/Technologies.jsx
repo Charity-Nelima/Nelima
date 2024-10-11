@@ -3,6 +3,7 @@ import React from 'react'
 export default function Technologies() {
     return (
         <div>
+            <section id='technologies'>
             <div class="rounded-2xl border border-zinc-100 p-6 m-6 dark:border-zinc-700/40">
                 <h2 class="flex text-sm font-semibold text-zinc-900 dark:text-zinc-100">
                     <svg viewBox="0 0 24 24" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" class="h-6 w-6 flex-none">
@@ -94,6 +95,7 @@ export default function Technologies() {
                 </ol>
 
             </div>
+            </section>
 
         </div>
     )
