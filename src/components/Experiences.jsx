@@ -76,12 +76,12 @@ export default function Experiences() {
                                         </h2><time class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400  pl-3.5" datetime="2022-09-05">
                                             <span class="absolute inset-y-0 left-0 flex items-center" aria-hidden="true">
                                                 <span class="h-4 w-0.5 rounded-full bg-zinc-200 dark:bg-zinc-500"></span>
-                                            </span>Nov 1, 2023 - Dec 30, 2023</time>
+                                            </span>Nov 1, 2021 - Dec 30, 2021</time>
                                         <p class="relative z-10 mt-2 text-sm text-zinc-600 ">● Through teamwork, I managed to acquire diverse skills in developing websites. These
                                         involved learning different frameworks like React, Node Js and Next Js.</p>
 
                                     </div>
-                                    <time class="mt-1 hidden md:block relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 " datetime="2022-09-05">Nov 1, 2023 - Dec 30, 2023</time>
+                                    <time class="mt-1 hidden md:block relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 " datetime="2022-09-05">Nov 1, 2021 - Dec 30, 2021</time>
                                 </article>
                                
                             </div>
