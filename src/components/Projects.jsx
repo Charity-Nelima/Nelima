@@ -50,11 +50,11 @@ export default function Projects() {
                     </svg>
                   </div>
                   </a>
-                  <div aria-hidden="true" class="relative z-10 mt-4 flex items-center text-sm font-medium text-teal-500">Read article
+                  <a href='https://www.hemllin.com/' aria-hidden="true" class="relative z-10 mt-4 flex items-center text-sm font-medium text-teal-500">Read article
                     <svg viewBox="0 0 16 16" fill="none" aria-hidden="true" class="ml-1 h-4 w-4 stroke-current">
                       <path d="M6.75 5.75 9.25 8l-2.5 2.25" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
                     </svg>
-                  </div>
+                  </a>
                 </li>
 
 
@@ -78,6 +78,11 @@ export default function Projects() {
                       <span className="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                       <span className="relative z-10">Planetaria</span>
                     </a>
+                    <a href='https://www.hemllin.com/' aria-hidden="true" class="relative z-10 mt-4 flex items-center text-sm font-medium text-teal-500">Read article
+                    <svg viewBox="0 0 16 16" fill="none" aria-hidden="true" class="ml-1 h-4 w-4 stroke-current">
+                      <path d="M6.75 5.75 9.25 8l-2.5 2.25" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </svg>
+                  </a>
                   </h2>
                   <p className="relative z-10 mt-2 text-sm text-zinc-600 ">
                     Creating technology to empower civilians to explore space on their own terms.
