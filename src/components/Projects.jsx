@@ -69,7 +69,7 @@ export default function Projects() {
                       data-nimg="1"
                       className="h-8 w-8"
                       src="https://spotlight.tailwindui.com/_next/static/media/starbucks.4a5bd050.svg"
-                      style={{ color: 'transparent' }} // Change to a style object
+                      style={{ color: 'transparent' }}
                     />
                   </div>
                   <h2 className="mt-6 text-base font-semibold text-zinc-800 ">
