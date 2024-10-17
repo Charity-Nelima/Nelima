@@ -4,10 +4,10 @@ import photo from '../assets/Nelima.jpg'
 export default function Contact() {
   return (
     <div>
-      <div className="mt-20  relative -mx-4 overflow-hidden bg-indigo-50 px-4 py-20 sm:-mx-6 sm:px-6 md:mx-0 md:rounded-5xl md:px-16 xl:px-24 xl:py-36">
+      <div className="mt-20  relative -mx-4 overflow-hidden  px-4 py-20 sm:-mx-6 sm:px-6 md:mx-0 md:rounded-5xl md:px-16 xl:px-24 xl:py-36">
 
         <div className="relative mx-auto max-w-5xl pt-16 sm:px-6">
-          <div className="bg-slate-50 pt-px sm:rounded-6xl">
+          <div className="bg-purple-50 pt-px sm:rounded-6xl">
             <div className="relative mx-auto -mt-16 h-44 w-44 overflow-hidden rounded-full bg-slate-200 md:float-right md:h-64 md:w-64 md:[shape-outside:circle(40%)] lg:mr-20 lg:h-72 lg:w-72">
               <img
                 alt=""
