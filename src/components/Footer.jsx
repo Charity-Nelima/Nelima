@@ -15,10 +15,7 @@ export default function Footer() {
                             </div>
                             <p class="text-sm text-zinc-400 dark:text-zinc-500">© 2024 Charity Nelima. All rights reserved.</p>
                         </div>
-                        <div class='mt-5'>
-                        <p class="text-sm text-zinc-400 dark:text-zinc-500">+254729815051</p>
 
-                    </div>
                     </div>
                    
 
