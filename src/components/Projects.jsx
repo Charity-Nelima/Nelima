@@ -7,7 +7,7 @@ export default function Projects() {
         <div className="relative px-4 sm:px-8 lg:px-12 mt-20">
           <div className="mx-auto max-w-2xl lg:max-w-5xl">
             <header className="max-w-2xl">
-              <h1 className="text-42l font-bold tracking-tight text-zinc-070 sm:text-5xl ">
+              <h1 className="text-2xl font-bold tracking-tight text-zinc-070 sm:text-5xl ">
                 My Projects
               </h1>
               <p className="mt-6 text-base text-zinc-600 ">
@@ -52,7 +52,7 @@ export default function Projects() {
                     </svg>
                   </a> */}
                 </li>
-                
+
                 <li className="group relative flex flex-col items-start">
                   <div className="relative z-10 flex h-12 w-12 items-center justify-center rounded-full bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 ">
                     <img

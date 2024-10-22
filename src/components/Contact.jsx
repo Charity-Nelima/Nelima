@@ -25,26 +25,26 @@ export default function Contact() {
             </div>
             <div className="px-4 py-10 sm:px-10 sm:py-16 md:py-20 lg:px-20 lg:py-32">
               <h2
-                className="inline-flex items-center rounded-full px-4 py-1 text-blue-600 ring-1 ring-inset ring-purple-400"
+                className="inline-flex items-center rounded-full px-4 py-1 text-purple-600 ring-1 ring-inset ring-purple-400"
                 id="author-title"
               >
-                <span className="font-mono text-sm" aria-hidden="true">05</span>
+                <span className="font-mono text-sm" aria-hidden="true">00</span>
                 <span className="ml-3 h-3.5 w-px bg-blue-600/20"></span>
-                <span className="ml-3 text-base font-medium tracking-tight">Author</span>
+                <span className="ml-3 text-base font-medium tracking-tight">Techie</span>
               </h2>
               <p className="mt-8 font-display text-2xl font-bold tracking-tight text-slate-900 sm:text-6xl">
                 <span className="block text-purple-400">+254729815051</span>
                 charity.w.nelima@gmail.com
               </p>
-              <p className="mt-4 text-xl tracking-tight text-slate-700">
+              {/* <p className="mt-4 text-xl tracking-tight text-slate-700">
                "" charity.w.nelima@gmail.com"
-              </p>
+              </p> */}
               <p className="mt-8">
-                <a className="inline-flex items-center text-base font-medium tracking-tight text-slate-900" href="https://x.com/CharityNelima2">
-                  <svg aria-hidden="true" viewBox="0 0 24 24" className="h-10 w-10 fill-current">
-                    <path d="M13.6823 10.6218L20.2391 3H18.6854L12.9921 9.61788L8.44486 3H3.2002L10.0765 13.0074L3.2002 21H4.75404L10.7663 14.0113L15.5685 21H20.8132L13.6819 10.6218H13.6823ZM11.5541 13.0956L10.8574 12.0991L5.31391 4.16971H7.70053L12.1742 10.5689L12.8709 11.5655L18.6861 19.8835H16.2995L11.5541 13.096V13.0956Z"></path>
-                  </svg>
-                  <span className="ml-4">Follow on X</span>
+                <a className="inline-flex items-center text-base font-medium tracking-tight text-slate-900" href="https://www.linkedin.com/in/charity-nelima/">
+                 
+                  <svg enable-background="new 0 0 32 32" height="32px" id="Layer_1" version="1.0" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><rect fill="#007BB5" height="23" width="7" y="9"/><path d="M24.003,9C20,9,18.89,10.312,18,12V9h-7v23h7V19c0-2,0-4,3.5-4s3.5,2,3.5,4v13h7V19C32,13,31,9,24.003,9z" fill="#007BB5"/><circle cx="3.5" cy="3.5" fill="#007BB5" r="3.5"/></g><g/><g/><g/><g/><g/><g/></svg>
+
+                  <span className="ml-4">Follow on <span className='text-blue-700'>LinkedIn</span></span>
                 </a>
               </p>
             </div>
