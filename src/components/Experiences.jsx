@@ -29,7 +29,7 @@ export default function Experiences() {
                                         <p class="relative z-10 mt-2 text-sm text-zinc-600 ">● Developed web applications using React and Ruby, ensuring performance and security.<br />
                                             ● Active in Agile methodologies, fostered team collaboration and timely project delivery.<br />
                                             ●Collaborated with the design team to align technical and business requirements.<br />
-                                            ● Implement comprehensive testing to maintain code quality and optimize performance.<br></br>
+                                            ● Implemented comprehensive testing to maintain code quality and optimize performance.<br></br>
                                             ● Contributed to impactful software solutions with a dynamic team.</p>
 
                                     </div>
