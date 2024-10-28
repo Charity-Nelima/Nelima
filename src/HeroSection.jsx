@@ -131,7 +131,7 @@ export default function HeroSection() {
 
                         <div className="text-center">
                             <h1 className="text-balance text-lg font-bold tracking-tight text-gray-600 sm:text-6xl lg:mt-0 mt-6" >
-                                Charity Nelima|| Software Developer
+                                Charity Nelima Software Developer
                             </h1>
                             <p className="mt-6 text-lg font-bold leading-8 text-gray-600">
                                 charity.w.nelima@gmail.com
