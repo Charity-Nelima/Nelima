@@ -4,9 +4,9 @@ export default function Technologies() {
     return (
         <div className='mx-auto max-w-2xl lg:max-w-5xl'>
             <section id='technologies'>
-                <h1 class="text-2xl font-bold tracking-tight text-zinc-800 sm:text-5xl p-8">Technologies.</h1>
+                <h1 class="text-2xl font-bold tracking-tight text-zinc-800 sm:text-5xl mb-8">Technologies</h1>
 
-                <div class="rounded-2xl border border-zinc-100 p-6 m-6 dark:border-zinc-700/40">
+                <div class="rounded-2xl border border-zinc-100 p-6  m-6 dark:border-zinc-700/40">
                     <div class='p-5'>
                     <div class="mx-auto grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-5">
                         <img class="col-span-2 max-h-12 w-full object-contain lg:col-span-1" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" alt="Transistor" width="158" height="48" />
