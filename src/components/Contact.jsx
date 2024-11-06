@@ -32,7 +32,7 @@ export default function Contact() {
                 <span className="ml-3 h-3.5 w-px bg-blue-600/20"></span>
                 <span className="ml-3 text-base font-medium tracking-tight">Techie</span>
               </h2>
-              <p className="mt-8 font-display text-2xl font-bold tracking-tight text-slate-900 sm:text-6xl">
+              <p className="mt-8 font-display text-2xl font-semibold tracking-tight text-slate-900 sm:text-6xl">
                 <span className="block text-purple-400">+254729815051</span>
                 charity.w.nelima@gmail.com
               </p>
